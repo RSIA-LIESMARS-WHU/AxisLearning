@@ -1,6 +1,8 @@
 This project hosts the code for implementing the Axis Learning for Orientated Objects Detection in Aerial Images algorithm for object detection, as presented in our paper:
 
-Xiao, Z.; Qian, L.; Shao, W.; Tan, X.; Wang, K. Axis Learning for Orientated Objects Detection in Aerial Images. Remote Sens. 2020, 12, 908.
+
+    Xiao, Z.; Qian, L.; Shao, W.; Tan, X.; Wang, K. Axis Learning for Orientated Objects Detection in Aerial Images. Remote Sens. 2020, 12, 908.
+
 
 The full paper is available at: https://www.mdpi.com/2072-4292/12/6/908.
 
